@@ -29,7 +29,6 @@ cam/gerber.cam
 cam/glaser.whl
 cam/layout2.cam
 cam/schematic.cam
-cam/sfe-gerb274x.cam
 doc/connect-device-split-symbol-de.pdf
 doc/connect-device-split-symbol-en.pdf
 doc/eagle.dtd
@@ -1408,6 +1407,5 @@ ulp/useful-routines.ulp
 ulp/warning.bmp
 untitled.s##
 bin
-cam
 doc
 dru
